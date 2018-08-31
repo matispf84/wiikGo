@@ -1,12 +1,5 @@
-# wiikGo
+# Stores REST Api
 
-## Instalacion
+This is built with Flask, Flask-RESTful, Flask-JWT, and Flask-SQLAlchemy.
 
-'''
-pip install Flask
-python app.py
-'''
-
-## Descripcion
-
-La aplicacion que revolucionara el planeta
+Deployed on Heroku.
